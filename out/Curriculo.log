@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.5)  5 FEB 2022 12:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.5)  5 FEB 2022 13:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -285,15 +285,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 74--75
  []
 
 
-Overfull \hbox (1.21463pt too wide) in paragraph at lines 81--85
-\T1/ptm/m/n/12 Título: PRO-JETO E DE-SEN-VOL-VI-MENTO DE RE-GU-LA-DO-RES ELE-TRÔ-NI-COS DE TEN-
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
  []
 
 [1
 
-{C:/Users/berilo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3
+{C:/Users/berilo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2
 
-] [4] [5] (c:\Users\berilo\Documents\Desenvolvimento\curriculo-vitae-latex\out\Curriculo.aux) ) 
+] [3] [4] (c:\Users\berilo\Documents\Desenvolvimento\curriculo-vitae-latex\out\Curriculo.aux) ) 
 Here is how much of TeX's memory you used:
  3841 strings out of 478593
  62971 string characters out of 2854417
@@ -303,9 +303,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  70i,5n,76p,1129b,220s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on c:\Users\berilo\Documents\Desenvolvimento\curriculo-vitae-latex\out\Curriculo.pdf (5 pages, 62406 bytes).
+Output written on c:\Users\berilo\Documents\Desenvolvimento\curriculo-vitae-latex\out\Curriculo.pdf (4 pages, 61856 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
+ 31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

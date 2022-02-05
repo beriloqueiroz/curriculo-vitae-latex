@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1644073861 "c:/Users/berilo/Documents/Desenvolvimento/curriculo-vitae-latex/Curriculo.tex" "out/Curriculo.pdf" "Curriculo" 1644073863
+["pdflatex"] 1644078894 "c:/Users/berilo/Documents/Desenvolvimento/curriculo-vitae-latex/Curriculo.tex" "out/Curriculo.pdf" "Curriculo" 1644078896
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/ptmb8r.tfm" 1136783054 4524 6bce29db5bc272ba5f332261583fee9c ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/ptmb8t.tfm" 1136783054 6880 f19b8995b61c334d78fc734065f6b4d4 ""
@@ -48,9 +48,9 @@
   "C:/Program Files/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1623005690 4902 efb3d66683a2da2a232f71e3a571a899 ""
   "C:/Users/berilo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1644072305 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/berilo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1644072319 10233656 38165e83e539f717c0128675357d97d9 ""
-  "Curriculo.tex" 1644073858 13124 372043342f0b6a23bb109fdeab4d25ff ""
-  "c:/Users/berilo/Documents/Desenvolvimento/curriculo-vitae-latex/Curriculo.tex" 1644073858 13124 372043342f0b6a23bb109fdeab4d25ff ""
-  "out/Curriculo.aux" 1644073862 134 ebc48bafb916ac3801077bd2b5ace4ca "pdflatex"
+  "Curriculo.tex" 1644078891 12871 b03c390d1404537fc8e3005f5b88d271 ""
+  "c:/Users/berilo/Documents/Desenvolvimento/curriculo-vitae-latex/Curriculo.tex" 1644078891 12871 b03c390d1404537fc8e3005f5b88d271 ""
+  "out/Curriculo.aux" 1644078895 134 f910a57e1ede0f3e9741eff118ae8a2a "pdflatex"
   (generated)
   "out/Curriculo.aux"
   "out/Curriculo.log"
