@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.4.17)  17 APR 2023 20:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  14 JUN 2023 12:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -391,32 +391,22 @@ LaTeX Info: Redefining \nameref on input line 15.
 \@outlinefile=\write3
 \openout3 = `Curriculo.out'.
 
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 24.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 28.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 20.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 28.
+(Font)              <14> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 28.
+(Font)              <9.79996> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 28.
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--61
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
+(Font)              <7> on input line 20.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 27.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
 
  []
 
@@ -465,63 +455,78 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--82
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
 
  []
 
 [2] [3
 
 ] [4]
-Overfull \hbox (4.70938pt too wide) in paragraph at lines 357--358
+Overfull \hbox (4.70938pt too wide) in paragraph at lines 360--361
 []\T1/ptm/m/n/12 Ministro de um WORKSHOP de introdução a microcontroladores e aplicações na FACULDADE
  []
 
 
-Overfull \hbox (22.73314pt too wide) in paragraph at lines 358--359
+Overfull \hbox (22.73314pt too wide) in paragraph at lines 361--362
 []\T1/ptm/m/n/12 Ministro de um WORKSHOP de introdução a microcontroladores e aplicações na UNIVERSIDADE
  []
 
 
-Overfull \hbox (13.25087pt too wide) in paragraph at lines 360--361
+Overfull \hbox (13.25087pt too wide) in paragraph at lines 363--364
 []\T1/ptm/m/n/12 Ministro de um MINICURSO DE INTRODUÇÃO A AUTOMAÇÃO INDUSTRIAL com duração
  []
 
 
-Overfull \hbox (13.25087pt too wide) in paragraph at lines 361--362
+Overfull \hbox (13.25087pt too wide) in paragraph at lines 364--365
 []\T1/ptm/m/n/12 Ministro de um MINICURSO DE INTRODUÇÃO A AUTOMAÇÃO INDUSTRIAL com duração
  []
 
 
-Overfull \hbox (33.9405pt too wide) in paragraph at lines 361--362
+Overfull \hbox (33.9405pt too wide) in paragraph at lines 364--365
 \T1/ptm/m/n/12 de 12 horas durante 3 dias na SEMANA DA ENGENHARIA ELÉTRICA do Curso de ENGENHARIA
  []
 
 
-Package datetime Warning: No week day names defined for language 'nil', defaulting to English on input line 370.
+Package datetime Warning: No week day names defined for language 'nil', defaulting to English on input line 373.
 
 
-Package datetime Warning: No month names provided for language 'nil' on input line 370.
+Package datetime Warning: No month names provided for language 'nil' on input line 373.
 
 [5] (out/Curriculo.aux)
 Package rerunfilecheck Info: File `Curriculo.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10486 strings out of 480171
- 166594 string characters out of 5894489
+ 10482 strings out of 480171
+ 166617 string characters out of 5894489
  492892 words of memory out of 5000000
- 28299 multiletter control sequences out of 15000+600000
- 484106 words of font info for 48 fonts, out of 8000000 for 9000
+ 28301 multiletter control sequences out of 15000+600000
+ 482581 words of font info for 43 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  70i,5n,76p,1090b,400s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on out/Curriculo.pdf (5 pages, 69247 bytes).
+Output written on out/Curriculo.pdf (5 pages, 69270 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 52 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
