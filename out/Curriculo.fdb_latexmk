@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1686756215 "/home/beriloqueiroz/dev/curriculo-vitae-latex/Curriculo.tex" "out/Curriculo.pdf" "Curriculo" 1686756215
+["pdflatex"] 1686760451 "/home/beriloqueiroz/dev/curriculo-vitae-latex/Curriculo.tex" "out/Curriculo.pdf" "Curriculo" 1686760451
   "/etc/texmf/web2c/texmf.cnf" 1681761554 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/beriloqueiroz/dev/curriculo-vitae-latex/Curriculo.tex" 1686756214 13898 32bb480925a9b166465f5f847f2e8ee7 ""
+  "/home/beriloqueiroz/dev/curriculo-vitae-latex/Curriculo.tex" 1686760450 14395 41646021025c8150ac43d7fe135598e4 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm" 1136768653 1292 bd42be2f344128bff6d35d98474adfe3 ""
@@ -86,9 +86,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1681767297 165012 f177baa1c39a3ebd62c3096a43521a0d ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1685446417 1435783 7baf02399634a1e9548ad76a5e0c2028 ""
-  "Curriculo.tex" 1686756214 13898 32bb480925a9b166465f5f847f2e8ee7 ""
-  "out/Curriculo.aux" 1686756192 762 12d55ff598cfe0dcd6db9ad5c3b97439 "pdflatex"
-  "out/Curriculo.out" 1686756192 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Curriculo.tex" 1686760450 14395 41646021025c8150ac43d7fe135598e4 ""
+  "out/Curriculo.aux" 1686760451 762 12d55ff598cfe0dcd6db9ad5c3b97439 "pdflatex"
+  "out/Curriculo.out" 1686760450 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "out/Curriculo.aux"
   "out/Curriculo.log"
