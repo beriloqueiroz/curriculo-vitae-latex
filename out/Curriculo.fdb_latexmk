@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1686760451 "/home/beriloqueiroz/dev/curriculo-vitae-latex/Curriculo.tex" "out/Curriculo.pdf" "Curriculo" 1686760451
+["pdflatex"] 1686851567 "/home/beriloqueiroz/dev/curriculo-vitae-latex/Curriculo.tex" "out/Curriculo.pdf" "Curriculo" 1686851567
   "/etc/texmf/web2c/texmf.cnf" 1681761554 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/beriloqueiroz/dev/curriculo-vitae-latex/Curriculo.tex" 1686760450 14395 41646021025c8150ac43d7fe135598e4 ""
+  "/home/beriloqueiroz/dev/curriculo-vitae-latex/Curriculo.tex" 1686851566 15606 3553c9f39a8037c5f3a0d7c3ff3bbe2c ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm" 1136768653 1292 bd42be2f344128bff6d35d98474adfe3 ""
@@ -14,8 +14,14 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm" 1136768653 4640 532ca3305aad10cc01d769f3f91f1029 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm" 1136768653 6944 94c55ad86e6ea2826f78ba2240d50df9 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1136768653 1300 b62933e007d01cfd073f79b963c01526 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1136768653 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb" 1136849748 45758 19968a0990191524e34e1994d4a31cb6 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1136849748 44729 811d6c62865936705a31c797a1d5dada ""
   "/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb" 1136849748 46026 6dab18b61c907687b520c72847215a68 ""
@@ -86,9 +92,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1681767297 165012 f177baa1c39a3ebd62c3096a43521a0d ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1685446417 1435783 7baf02399634a1e9548ad76a5e0c2028 ""
-  "Curriculo.tex" 1686760450 14395 41646021025c8150ac43d7fe135598e4 ""
-  "out/Curriculo.aux" 1686760451 762 12d55ff598cfe0dcd6db9ad5c3b97439 "pdflatex"
-  "out/Curriculo.out" 1686760450 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Curriculo.tex" 1686851566 15606 3553c9f39a8037c5f3a0d7c3ff3bbe2c ""
+  "out/Curriculo.aux" 1686851534 762 2b030b6f108180ec53ccd72872798251 "pdflatex"
+  "out/Curriculo.out" 1686851534 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "out/Curriculo.aux"
   "out/Curriculo.log"
