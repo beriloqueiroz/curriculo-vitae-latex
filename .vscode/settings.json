@@ -3,7 +3,9 @@
   "latex-workshop.latex.recipes": [
     {
       "name": "latexmk",
-      "tools": ["latexmk"]
+      "tools": [
+        "latexmk"
+      ]
     }
   ],
   "latex-workshop.latex.tools": [
